@@ -1,8 +1,10 @@
 # BT Kiem thu
 
-## Bài toán: Viết chương trình tính mức hưởng lương hưu của quân nhân chuyên nghiệp nam với các thông tin mức bình quân tiền lương tháng đóng bảo hiểm xã hội, tuổi khi nghỉ hưu và số năm đóng bảo hiểm xã hội
+## Bài toán
+  Viết chương trình tính mức hưởng lương hưu của quân nhân chuyên nghiệp nam với các thông tin mức bình quân tiền lương tháng đóng bảo hiểm xã hội, tuổi khi nghỉ hưu và số năm đóng bảo hiểm xã hội
 
-## Mô tả sơ bộ: Quân nhân nghỉ hưu phải đủ (47-56) tuổi và phải có 20 năm đóng bảo hiểm xã hội trở lên mới đủ điều kiện hưởng lương hưu (thực tế có một số ngoại lệ khác nhưng không xét trong bài làm). Tùy theo thời gian đóng BHXH và mức bình quân tiền lương tháng đóng BHXH mà mức lương hưu sẽ khác nhau đối với mỗi người.
+## Mô tả sơ bộ
+  Quân nhân nghỉ hưu phải đủ (47-56) tuổi và phải có 20 năm đóng bảo hiểm xã hội trở lên mới đủ điều kiện hưởng lương hưu (thực tế có một số ngoại lệ khác nhưng không xét trong bài làm). Tùy theo thời gian đóng BHXH và mức bình quân tiền lương tháng đóng BHXH mà mức lương hưu sẽ khác nhau đối với mỗi người.
 
 ## Các điều kiện giả định đặt ra: 
 1. Mức hưởng lương hưu của quân nhân chuyên nghiệp hàng tháng = Tỷ lệ hưởng lương hưu hàng tháng * mức bình quân tiền lương tháng đóng BHXH
