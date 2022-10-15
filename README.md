@@ -1,4 +1,4 @@
-# BT Kiem thu
+# Bài tập kiểm thử
 
 ## Bài toán
   Viết chương trình tính mức hưởng lương hưu của quân nhân chuyên nghiệp nam với các thông tin mức bình quân tiền lương tháng đóng bảo hiểm xã hội, tuổi khi nghỉ hưu và số năm đóng bảo hiểm xã hội
