@@ -20,8 +20,12 @@ Mức hưởng lương hưu hàng tháng
  
 ## Cách tính:
 1: Nếu tuổi nghỉ hưu < 47 tuổi và số năm đóng bảo hiểm xã hội < 20 năm thì mức hương lương hưu hàng tháng nhận được = 0 => sang bước 3
+
 2: Tính mức lương hưu nhận được
+
 2.1. Tỷ lệ lương hưu = max ((0.45 + (số năm đóng bảo hiểm xã hội – 20) * 0.02), 075)
+
 2.2. Mức tiền lương nhận được = tỷ lệ lương hưu * mức bình quân tháng đóng bảo hiểm xã hội
+
 3. Kết thúc chương trình
 
